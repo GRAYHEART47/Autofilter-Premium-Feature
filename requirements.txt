@@ -39,3 +39,5 @@ Levenshtein==0.24.0
 
 # Git-based Packages
 git+https://github.com/Joelkb/cinemagoer
+
+setuptools==69.5.1
